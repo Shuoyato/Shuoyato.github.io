@@ -5,66 +5,18 @@ description: 最肯忘却古人诗，最不屑一顾是相思
 header-img: "img/vav1.jpg"
 ---
 
-<!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading" id="tag-heading">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <span class="subheading">{{ page.description }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+<div class="zh post-container">
+	 <!--copied from markdown -->
+    <blockquote><p>这些年需要的网站</p></blockquote>
 
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <!-- 标签云 -->
-			<div id='tag_cloud' class="tags">
-				{% for tag in site.tags %}
-				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-				{% endfor %}
-			</div>
+	<h3 id="toc_0">生活</h3>
+ <ul>
 
-            <!--<blockquote class="tag-comments">
-                标签命名规范：
-                    <li>行业观察、职位、公司优先使用中文</li>
-                    <li>外国产品、术语优先使用英文</li>
-            </blockquote>-->
+<li><a href="{{site.baseurl}}/files/千与千寻.Spirited.Away.2001.BD1080P.X264.AC3.Mandarin.torrent">【千与千寻-Spirited.Away-1080p-国语日语双音轨】</a></li>
+<li><a href="{{site.baseurl}}/files/Frozen.II.2019.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.torrent">【冰雪奇缘2-Frozen.II-4k】</a></li>
+<li><a href="{{site.baseurl}}/files/[LoliHouse] Tenki No Ko [BDRip 1920x1080 HEVC-10bit FLAC PGS(chs,eng,jpn)].torrent">【天气之子-Tenki No Ko-1080p】</a></li>
+<li><a href="{{site.baseurl}}/files/Godzilla.King.of.the.Monsters.2019.BD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.torrent">【哥斯拉2：怪兽之王-Godzilla.King.of.the.Monsters-1080p】</a></li>
+<li><a href="{{site.baseurl}}/files/Leon.The.Professional.1994.REMASTERED.EXTENDED.1080p.BluRay.H264.AAC-RARBG.torrent">【这个杀手不太冷-Leon.The.Professional-1080p】</a></li>
+<li><a href="https://github.com/fe13" title="可能是未来中国最火的前端工程师的聚集地" target="_blank">FE 13</a></li>
 
-            <!-- 标签列表 -->
-			{% for tag in site.tags %}
-			<div class="one-tag-list">
-			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
-                    <span class="tag-text">{{ tag[0] }}</span>
-                </span>
-				{% for post in tag[1] %}
-				  <!-- <li class="listing-item">
-				  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-				  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-				  </li> -->
-				 <div class="post-preview">
-				    <a href="{{ post.url | prepend: site.baseurl }}">
-				        <h2 class="post-title">
-                            {{ post.title }}
-				        </h2>
-				        {% if post.subtitle %}
-				        <h3 class="post-subtitle">
-				            {{ post.subtitle }}
-				        </h3>
-				        {% endif %}
-				    </a>
-				    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-				</div>
-				<hr>
-				{% endfor %}
-			</div>
-			{% endfor %}
-
-		</div>
-	</div>
-</div>
+</ul>
