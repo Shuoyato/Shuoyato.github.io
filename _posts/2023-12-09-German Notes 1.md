@@ -17,6 +17,7 @@ Hallo und tschüs/ciao (Hello and see you).
 Auf Wiedersehen (Goodbye, more formal).
 
 (1) Conversations
+
       Hallo!
       
       P1: Wer bist du?/Wie heißt du?(Who are you)   P2: Ich heiße .../Ich bin ...
@@ -48,6 +49,7 @@ Mein Name ist Shuo.
 Vorname(first name), Nachname(family name)
 
 (2) Verben und Personalpronomen
+
       ich(I)                      heiße(named)   bin(to be)  wohne(to live)  kommen(to come)
       
       du(You, informal)           heißt          bist        wohnst          kommst
@@ -57,6 +59,7 @@ Vorname(first name), Nachname(family name)
       Sie(They, or You formal)    heißen         sind        wohnen          kommen
 
 (3) Nummer und Symbol
+
       null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, 
       elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig
       0-20
