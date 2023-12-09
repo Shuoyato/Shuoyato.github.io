@@ -99,3 +99,73 @@ Shuo Wang: Ich komme aus China, und ich wohne in Münster, in Deutschland. Ich s
       Ungarn         Ungarisch (Hungary)
       Tunesien       Arabisch (突尼斯)
 
+### Chapter 2 Freunde, Kollegen und ich!(Friends, colleagues and me)
+
+fotografieren(take photos), singen, kochen(cook), schwimmen(swim), reisen(travel), tanzen(dance), joggen(jog), Musik hören(listen to music), ins Kino gehen(go to the cinema), lesen(read)
+
+Entschuldigung, noch einmal bitte. (Sorry, could you repeat plz)
+
+Das versteche ich nicht. (I don't understand that)
+
+Bitte ein bisschen langsamer. (A little slower plz)
+(1) Conversations
+
+      Hörst du gern Musik?       Ja, sehr gern, und du?
+      Gehst du gern ins Kino?    Nein, nicht so gern. 
+      Liest du gern?             Es geht so. 
+
+(2) Verben und Personalpronomen
+
+      ich                       koche(cook)   arbeite(work)  lese(read)  spreche(speak)
+      
+      du                        kochst        arbeitest      liest       sprichst
+      
+      er/sie/es(it)             kocht         arbeitet       liest       spricht
+
+      wir(we)                   kochen        arbeiten       lesen       sprechen
+
+      ihr(you, plural, formal)  kocht         arbeitet       lest        sprecht
+      
+      sie/Sie(you, singular)    kochen        arbeiten       lesen       sprechen
+
+Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag
+
+machen(make, do)
+
+frei(free)
+
+      Gehen wir ins Kino?         Ja, gern. 
+      
+      Gehen wir am Sonntag?       Nein, das geht leider nicht. 
+      
+      Wann gehen wir?             Am Montag. 
+      
+      Was machen wir am Montag?   WIr gehen ins Kino. 
+
+Artikel: 
+
+      maskulin   der  Stift(pen)
+      neutrum    das  Buch(book)
+      feminin    die  Tablette(tablet)
+      Plural     die  Bücher(books)
+
+(3) Nummer
+
+      20          zwanzig
+      21          einundzwanzig
+      24          vierundzwanzig
+      30          dreißig
+      32          zweiunddreißig
+      99          neunundneunzig
+      100         (ein) hundert
+      523         fünfhundertdreiundzwanzig (5 hundred 3 and 20)
+      1.000       (ein) tausend
+      1.100       (ein) tausendeinhundert
+      10.000      zehntausend
+      1.000.000   ein Million
+      50.000.000  fünfzig Millionen
+      1.830.584   ein Million achthundertdreizigtausend fünfhundertvierundachtzig
+
+注意德国数字","和"."用法与中国相反。
+
+von ... bis... (from ... to ...)
