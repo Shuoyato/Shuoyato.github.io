@@ -1,7 +1,7 @@
 # Site settings
 title: Cantfindflat
 SEOTitle: 找不到公寓
-header-img: img/jinx2.jpg
+header-img: img/jinx1.jpg
 email: wangshuo102@outlook.com
 description: "你觉得恨却离不开"
 keyword: "Math, Logic, China, Germany"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Shuoyato/shuoyato.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "天下没有不散的宴席!"
-sidebar-avatar: /img/jinx1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/jinx2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
