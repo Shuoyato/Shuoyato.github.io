@@ -73,5 +73,6 @@ Vorname(first name), Nachname(family name)
       _  Unterstrich
 
 (4) Summary
+
 Shuo Wang: Ich komme aus China, und ich wohne in Münster, in Deutschland. Ich spreche Englisch und Mandarin. Ich lerne Deutsch. Mein E-Mail Adresse ist wangshuo102@outlook.com. Mein Handynummer ist ...
 
