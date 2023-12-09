@@ -128,7 +128,7 @@ Bitte ein bisschen langsamer. (A little slower plz)
       
       sie/Sie(you, singular)    kochen        arbeiten       lesen       sprechen
 
-Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag
+Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag, wochenende(weekend), wochentage(weekday)
 
 machen(make, do)
 
@@ -170,7 +170,7 @@ Artikel:
 
 von ... bis... (from ... to ...)
 
-### Chapter3 In Hamburg
+### Chapter 3 In Hamburg
 
 der Bahnhof, der Hafen, das Konzerthaus, die Kirche, das Rathaus, der Fluss, das Schiff
 
@@ -220,6 +220,12 @@ Fahren Sie geradeaus!(Drive straighthead)
 
 ### Chapter 4 Guten Appetit!
 
+in der Bäckerei(bakery), auf dem Markt,in der Metzgerei(Butcher shop, 肉店), im Supermarkt
+
+brauchen, haben, machen, kochen, essen, kaufen
+
+need, have, make, cook, eat, buy
+
 (1) Wörter
 
       Frühstück(breakfast): die Banane, der Orangensaft, das Müsli(muesli, 麦片), der Joghurt, der Tee, die Milch, der Käse(cheese), die Marmelade, das Ei(egg), das Brötchen(bread roll)
@@ -229,5 +235,49 @@ Fahren Sie geradeaus!(Drive straighthead)
       Kaffee und Kuchen: der Kaffee, der Kuchen(cake), die Sahne(cream), die Schokolade(chocolate), der keks(biscuit), der Zucker(sugar)
 
       Abendessen: die Butter, das Brot, die Tomate, die Gurke(cucumber), der Salat, die Suppe, die Wurst, der Schinken(ham, 火腿)
+      
 
-      in der Bäckerei(bakery), auf dem Markt,in der Metzgerei(Butcher shop, 肉店), im Supermarkt
+(2) Nominativ und Akkusativ: 
+
+      Der Käse ist gut. Ich kaufe den Käse.        den, einen, keinen
+
+      Das Brot ist gut. Ich kaufe das Brot.        das, ein,   kein
+
+      Die Gurke ist gut. Ich kaufe die Gurke.      die, eine,  keine
+
+      Die Tomaten sind gut. Ich kaufe die Tomaten. die, -,     keine
+
+(3) Sentences
+      Wir kochen eine Suppe. Wir brauchen Tomaten und Fleisch. Ich kaufe die Tomaten und Anna kauft Fleisch. 
+
+      Entschuldigung, ich brauche einen Euro für den Einkaufswagen. Können Sie wechseln, bitte?(Sorry, I need a euro for the shopping cart. Can you switch, please?)
+      Ja, Moment - hier bitte.
+      Danke. 
+
+      Was kostet der Apfelsaft? 
+      99 Cent. 
+
+      Entschuldigung, wo finde ich Reis?
+      Dort rechts.(Dort-there)
+      Danke. 
+
+      Guten Appetit!/Mahlzeit!
+      Danke, gleichfalls!(same to you)
+
+      Möchtet ihr (noch)...?
+      Ja, bitte. ... schmeckt/schmecken sehr gut. 
+
+      Möchtest du (noch)...?
+      Ja, gerne. ... ist/sind sehr lecker.(tasty)
+      Nein, danke. Ich bin satt.(full)
+
+      Essen/Trinken Sie gern...?/Isst/Trinkst du gern ...?  Ja, sehr gern./Nein, nicht so gern. 
+
+      Was essen/trinken Sie/isst/trinkst du gern? Ich esse/trinke gern .../Ich esse/trinke nicht gern ...
+
+      Zum Frühstuck esse ich Ei. 
+      Vormittags trinke ich Kaffee. 
+      Ich mag Fleisch und Fisch am Mittags. 
+      Nachmittags ...
+      Abends mag ich Pizza ober Pasta. 
+      Ich trinke oft cola. 
