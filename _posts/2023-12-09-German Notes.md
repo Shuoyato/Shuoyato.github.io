@@ -248,6 +248,7 @@ need, have, make, cook, eat, buy
       Die Tomaten sind gut. Ich kaufe die Tomaten. die, -,     keine
 
 (3) Sentences
+
       Wir kochen eine Suppe. Wir brauchen Tomaten und Fleisch. Ich kaufe die Tomaten und Anna kauft Fleisch. 
 
       Entschuldigung, ich brauche einen Euro für den Einkaufswagen. Können Sie wechseln, bitte?(Sorry, I need a euro for the shopping cart. Can you switch, please?)
