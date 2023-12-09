@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 仅仅是我在路上看到的德语词
-date: 2023-12-10
+date: 2023-12-09
 author: 比克
 header-img: img/Allianz.jpg
 catalog: true
