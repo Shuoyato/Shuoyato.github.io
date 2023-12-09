@@ -18,6 +18,7 @@ Auf Wiedersehen (Goodbye, more formal).
 
 (1) Conversations
       Hallo!
+      
       P1: Wer bist du?/Wie heißt du?(Who are you)   P2: Ich heiße .../Ich bin ...
       
       P1: Wie geht's?/Wie geht's dir?(How are you)  P2: Danke, sehr gut/gut/auch gut. Und dir?(and you)
@@ -26,8 +27,8 @@ Auf Wiedersehen (Goodbye, more formal).
 
       Wie heißt du?     Ich heiße Nina.
       
-      Wie heißen Sie?   Mein Name ist Nina Weber
-      . 
+      Wie heißen Sie?   Mein Name ist Nina Weber.
+      
       Wer bist du?      Ich bin Nina.
       
       Wie ist Ihr Name? Ich heiße Nina Weber. 
