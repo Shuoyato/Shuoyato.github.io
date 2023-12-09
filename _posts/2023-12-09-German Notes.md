@@ -169,3 +169,65 @@ Artikel:
 注意德国数字","和"."用法与中国相反。
 
 von ... bis... (from ... to ...)
+
+### Chapter3 In Hamburg
+
+der Bahnhof, der Hafen, das Konzerthaus, die Kirche, das Rathaus, der Fluss, das Schiff
+
+the train station, the harbor, the concert hall, the church, the town hall, the river, the ship
+
+Gehen Sie links!(go left)
+
+Fahren Sie geradeaus!(Drive straighthead)
+
+(1) Unbestimmter Artikel und bestimmter Artikel(indefinite article and definite article)
+
+      masculin: Das ist ein Hafen. Das ist der Hafen von Hamburg.     der ein  kein  Bus
+
+      neutrum:  Das ist ein Hotel. Das Hotel heißt "Alster".          das ein  kein  Fahrrad
+
+      feminin:  Das ist eine Straße. Die Straße heißt Müllerstraße.   die eine keine U-Bahn
+
+      Plural:   Das sind - Schiffe. Die Schiffe sind im Hafen.        die -    keine Autos
+
+
+(2) Conversations
+
+      Einschuldigung, wo ist bitte...?                    Das ist ganz einfach. Gehen Sie rechs/links/geradeaus und dann... Da ist...
+      
+      Also hier rechts/links/geradeaus... und dann...?    Ja./Ja, genau. 
+      
+      Vielen Dank.                                        Bitte, gern. 
+
+      Was machen die Leute?(what are the people doing)
+
+      Wann machen sie das?(when do they do that)
+
+      Der Turm ist 112 Meter hoch.(Tower)
+
+      Der Hafen ist groß.(big)
+      
+(3) Monat und Jahreszeit(month and season)
+
+      Frühling(Spring): März,      April,   Mai
+
+      Sommer(SUmmer):   Juni,      Juli,    August
+
+      Herbst(Fall):     September, Oktober, November
+
+      Winter:           Dezember,  Januar,  Februar
+
+
+### Chapter 4 Guten Appetit!
+
+(1) Wörter
+
+      Frühstück(breakfast): die Banane, der Orangensaft, das Müsli(muesli, 麦片), der Joghurt, der Tee, die Milch, der Käse(cheese), die Marmelade, das Ei(egg), das Brötchen(bread roll)
+
+      Mittagessen: der Apfelsaft, die Kartoffeln(potatoes), das Salz, der pfeffer(pepper), das Gemüse(vegetables), das Wasser, der Essig(Vinegar, 醋), das Öl, die Cola, das Fleisch(meat)
+
+      Kaffee und Kuchen: der Kaffee, der Kuchen(cake), die Sahne(cream), die Schokolade(chocolate), der keks(biscuit), der Zucker(sugar)
+
+      Abendessen: die Butter, das Brot, die Tomate, die Gurke(cucumber), der Salat, die Suppe, die Wurst, der Schinken(ham, 火腿)
+
+      in der Bäckerei(bakery), auf dem Markt,in der Metzgerei(Butcher shop, 肉店), im Supermarkt
