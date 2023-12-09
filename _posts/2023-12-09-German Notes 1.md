@@ -76,3 +76,26 @@ Vorname(first name), Nachname(family name)
 
 Shuo Wang: Ich komme aus China, und ich wohne in Münster, in Deutschland. Ich spreche Englisch und Mandarin. Ich lerne Deutsch. Mein E-Mail Adresse ist wangshuo102@outlook.com. Mein Handynummer ist ...
 
+      Das ist Frau Lang, sie kommt aus Deutschland, sie wohnt in Frankfurt. 
+
+      Das ist Jan, er kommt aus Frankfurt, er wohnt in Zurich. 
+
+(5) Some countries/regions
+
+      Land           Sprache
+      Deutschland    Deutsch
+      Österreich     Deutsch
+      die Schweiz    Französisch, Italienisch, Rätoromanisch(Romansh)
+      Frankreich     Französisch
+      Brasilien      Portugiesisch
+      Italien        Italienisch
+      Spanien        Spanisch
+      Polen          Polnisch
+      Die Türkei     Türkisch
+      Russland       Russisch
+      Algerien       Arabisch (阿尔及利亚)
+      Japan          Japanisch
+      die USA        Englisch
+      Ungarn         Ungarisch (Hungary)
+      Tunesien       Arabisch (突尼斯)
+
