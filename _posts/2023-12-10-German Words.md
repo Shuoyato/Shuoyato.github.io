@@ -18,5 +18,13 @@ tags:
       frage(ask),
       die welt(world),
       hier(here),
+      kennen(know),
+      Osten Westen Süden Norden(东西南北),
+      schon(already),
+      leider(unfortunately),
+      einmal(once),
+      jetzt(now),
+      noch mal(again),
+      
       
       
