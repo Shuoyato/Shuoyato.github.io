@@ -20,9 +20,10 @@ Forward problem: Given known causes, determine the effects.
 Inverse problem: Observing the effects, recover the cause. 
 
 Computing a solution to the operator equation $Ku=f$ is not easy for three reasons: 
-      1, a solution may not exist,
-      2, if it exists it may not be unique,
-      3, small errors (noise) may get heavily amplified. 
+
+> 1, a solution may not exist,
+> 2, if it exists it may not be unique,
+> 3, small errors (noise) may get heavily amplified. 
 
 > $\lnot (S x = 0)$  
 > $S x = S y \Rightarrow x = y$  
