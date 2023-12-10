@@ -52,6 +52,11 @@ Tikhonov regularization: The inverse problem is replaced with
 
 > $x_{\alpha}=\arg\min ||Ax-y^{\delta}||^2+\alpha||x||^2$, with regularization parameter $\alpha$. 
 
+Also we have that if $X, Y$ are Hilbert spaces, and $A$ is linear continuous, then the Tikhonov regularization is well-posed. 
 
+## Chapter 2 Illustration via integration/differentiation
 
+KATRIN is a German acronym (Karlsruhe Tritium Neutrino Experiment) for an undertaking to measure the mass of the electron antineutrino with sub-eV precision by examining the spectrum of electrons emitted from the beta decay of tritium. The experiment is a recognized CERN experiment (RE14).[1][2] The core of the apparatus is a 200-ton spectrometer.
+
+Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$ 
 
