@@ -14,9 +14,7 @@ tags:
 
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/). 
-
-Or [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/) or [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
 
 ## Chapter 1 Introduction
 
