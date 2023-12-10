@@ -13,7 +13,7 @@ tags:
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
-#### Chapter 1 Introduction
+## Chapter 1 Introduction
 
 Forward problem: Given known causes, determine the effects. 
 
