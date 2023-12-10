@@ -18,4 +18,4 @@ Forward problem: Given known causes, determine the effects.
 
 Inverse problem: Observing the effects, recover the cause. 
 
-$Ku=f$
+       $Ku=f$
