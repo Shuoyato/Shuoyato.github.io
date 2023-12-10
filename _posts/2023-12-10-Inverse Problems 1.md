@@ -50,7 +50,7 @@ But how can we approximate $\hat{x}$ from noisy measurements $y^{\delta}$?
 
 Tikhonov regularization: The inverse problem is replaced with 
 
-> $x_{\alpha}=\arg\min ||Ax-y^{\delta}||^2+\alpha||x||^2$.
+> $x_{\alpha}=\arg\min ||Ax-y^{\delta}||^2+\alpha||x||^2$, with regularization parameter $\alpha$. 
 
 
 
