@@ -38,8 +38,6 @@ In the sense of Hadamard, the problem is called well-posed iff these three condi
 >
 > 3, for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
 
-Consider 
-
 Consider
 > true solution $\hat{x}\in X$,
 > exact measurements $\hat{y} = A\hat{x}\in Y$,
@@ -48,7 +46,7 @@ Consider
 Given exact measurements $\hat{y}$, we could calculate $\hat{x} = A^{−1}\hat{y}$.
 But how can we approximate $\hat{x}$ from noisy measurements $y^{\delta}$?
 
-Tikhonov regularization: The inverse problem is replaced with 
+#### Tikhonov regularization: The inverse problem is replaced with 
 
 > $x_{\alpha}=\arg\min ||Ax-y^{\delta}||^2+\alpha||x||^2$, with regularization parameter $\alpha$. 
 
@@ -60,3 +58,9 @@ KATRIN is a German acronym (Karlsruhe Tritium Neutrino Experiment) for an undert
 
 Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$ 
 
+#### Non-wellposedness of differentiation
+
+> Consider the inverse problem $Ax=y$,
+> In general it has no solution,
+> If a solution exists, it is unique,
+> but not continuous in $y\in Y$. 
