@@ -38,9 +38,19 @@ In the sense of Hadamard, the problem is called well-posed iff these three condi
 >
 > 3. for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
 
+Consider 
+
+Consider
+> true solution $\hat{x}\in X$,
+> exact measurements $\hat{y} = A\hat{x}\in Y$,
+> noisy measurements $y^{\delta}\in Y$, such that $||y^{\delta}-y||<\delta$.
+
+Given exact measurements $\hat{y}$, we could calculate $\hat{x} = A^{−1}\hat{y}$.
+But how can we approximate $\hat{x}$ from noisy measurements $y^{\delta}$?
+
 Tikhonov regularization: The inverse problem is replaced with 
 
-> $x_{\alpha}=\arg\min ||Ax-y||^2+\alpha||X||^2$.
+> $x_{\alpha}=\arg\min ||Ax-y^{\delta}||^2+\alpha||x||^2$.
 
 
 
