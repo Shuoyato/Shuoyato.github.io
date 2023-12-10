@@ -82,11 +82,22 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 > Assume that $\Omega$ is an open subset of $\mathbb{R}^n$.
 >
 > The Sobolev space $W^{k, p}(\Omega)$ consists of functions $u \in L^p(\Omega)$ such that for every multi-index $\alpha$ with $|\alpha| \leq k$, the weak derivative $D^\alpha u$ exists and $D^\alpha u \in L^p(\Omega)$.
->
-> Thus $W^{k, p}(\Omega)=\{ u \in L^p(\Omega): D^\alpha u \in L^p(\Omega),|\alpha| \leq k \} $ .
 
 ## Chapter 3 Some classical inverse/forward problems
 
-> 1, differentiation/integration
+> 1, Differentiation/Integration
 >
 > 2, X-ray transform
+>
+> 3, Parameter identification
+>
+> 4, Inverse scattering
+
+
+## Chapter 4 Linear integral operators
+
+## Chapter 5 Compact operators
+
+## Chapter 6 The Riesz theorems
+
+
