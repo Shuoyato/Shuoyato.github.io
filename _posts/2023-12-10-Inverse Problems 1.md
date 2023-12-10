@@ -9,7 +9,7 @@ catalog:   true
 tags:
     - PDE
 ---
-\usepackage{amsmath}
+
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
 
 #### Chapter 1 Introduction
