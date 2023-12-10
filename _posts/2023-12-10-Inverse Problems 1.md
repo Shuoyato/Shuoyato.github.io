@@ -43,7 +43,7 @@ Consider
 Consider
 > true solution $\hat{x}\in X$,
 > exact measurements $\hat{y} = A\hat{x}\in Y$,
-> noisy measurements $y^{\delta}\in Y$, such that $||y^{\delta}-y||<\delta$.
+> noisy measurements $y^{\delta}\in Y$, such that $||y^{\delta}-y||\leq\delta$.
 
 Given exact measurements $\hat{y}$, we could calculate $\hat{x} = A^{−1}\hat{y}$.
 But how can we approximate $\hat{x}$ from noisy measurements $y^{\delta}$?
