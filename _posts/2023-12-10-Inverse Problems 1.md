@@ -22,7 +22,7 @@ Forward problem: Given known causes, determine the effects.
 
 Inverse problem: Observing the effects, recover the cause. 
 
-Let $K:U\to V$ denotes an operator that maps from a cause space $U$ to a effect space $V$, computing a solution to the operator equation $Ku=f$ is not easy for three reasons: 
+Let $A:X\to Y$ denotes an operator that maps from a cause space $X$ to a effect space $Y$, computing a solution to the operator equation $Ax=y$ is not easy for three reasons: 
 
 > 1, a solution may not exist,
 > 
@@ -32,10 +32,12 @@ Let $K:U\to V$ denotes an operator that maps from a cause space $U$ to a effect 
 
 In the sense of Hadamard, the problem is called well-posed iff these three conditions are satisfied, i.e.,
 
-> for all $f\in V$, there exists a $u\in U$ with $Ku=f$,
+> for all $y\in Y$, there exists a $x\in X$ with $Ax=y$,
 >
-> if $u\neq v$, then $Kv\neq f$,
+> if $z\neq x$, then $Az\neq y$,
 >
-> for all ${u_k}_{k\in\mathbb{N}}$ with $Ku_k\to f$ implies $u_k\to u$. 
+> for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
+
+### 1.1 Examples
 
 
