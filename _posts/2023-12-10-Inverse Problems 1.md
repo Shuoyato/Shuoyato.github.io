@@ -12,9 +12,11 @@ tags:
 
 # Inverse Problems
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/). 
-[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
+
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/). 
+
+Or [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
 
 ## Chapter 1 Introduction
 
@@ -22,12 +24,20 @@ Forward problem: Given known causes, determine the effects.
 
 Inverse problem: Observing the effects, recover the cause. 
 
-Computing a solution to the operator equation $Ku=f$ is not easy for three reasons: 
+Let $K:U\to V$ denotes an operator that maps from a cause space $U$ to a effect space $V$, computing a solution to the operator equation $Ku=f$ is not easy for three reasons: 
 
 > 1, a solution may not exist,
 > 
 > 2, if it exists it may not be unique,
 > 
-> 3, small errors (noise) may get heavily amplified. 
+> 3, small errors (noise) may get heavily amplified.
+
+In the sense of Hadamard, the problem is called well-posed iff these three conditions are satisfied, i.e.,
+
+> for all $f\in V$, there exists a $u\in U$ with $Ku=f$,
+>
+> if $u\neq v$, then $Kv\neq f$,
+>
+> for all $\{u_k\}_{k\in\mathbb{N}}$ with $Ku_k\to f$ implies $u_k\to u$. 
 
 
