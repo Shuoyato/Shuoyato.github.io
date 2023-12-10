@@ -62,9 +62,9 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 
 > Consider the inverse problem $Ax=y$,
 > 
-> In general it has no solution,
+> In general it has no solution, (if $y\notin W^{1,2}((0,1))$, then it has no weak derivative in $X$),
 >  
-> If a solution exists, it is unique,
+> If a solution exists, it is unique, (because $x(s)=y'(s)$ and the weak derivative is unique), 
 > 
 > but not continuous in $y\in Y$. 
 
@@ -72,4 +72,23 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 
 > $x_{\alpha}=\arg\min \int^1_0|\int^s_0x(t)dt-y^{\delta}(s)|^2+\alpha\int^1_0|x(t)|^2dt$,
 >
-> Set $y_{\alpha}=Ax_{\alpha}$, then $y_{\alpha}$ solves $-\alpha y''_ {\alpha}+y_{\alpha}-y^{\delta}=0$ on $(0,1)$ and $y_{\alpha}(0)=0, y'_{\alpha}(1)=0$. 
+> Set $y_{\alpha}=Ax_{\alpha}$, then $y_{\alpha}$ solves $-\alpha y''_ {\alpha}+y_{\alpha}-y^{\delta}=0$ on $(0,1)$ and $y_{\alpha}(0)=0, y'_{\alpha}(1)=0$.
+>
+> thus $y_{\alpha}$ is the solution of an implicit Euler step with stepsize $\alpha$ of the heat equation with homogeneous Dirichlet-/Neumann-boundary conditions.
+>  $y^{\delta}$ first is smoothed to $y_{\alpha}$!
+
+#### Recall Sobolev space
+
+> Assume that $\Omega$ is an open subset of $\mathbb{R}^n$.
+>
+> The Sobolev space $W^{k, p}(\Omega)$ consists of functions $u \in L^p(\Omega)$ such that for every multi-index $\alpha$ with $|\alpha| \leqslant k$, the weak derivative $D^\alpha u$ exists and $D^\alpha u \in L^p(\Omega)$.
+>
+> Thus
+$$
+W^{k, p}(\Omega)=\left\{u \in L^p(\Omega): D^\alpha u \in L^p(\Omega),|\alpha| \leqslant k\right\} .
+$$
+## Chapter 3 Some classical inverse/forward problems
+
+> 1, differentiation/integration
+>
+> 2, X-ray transform
