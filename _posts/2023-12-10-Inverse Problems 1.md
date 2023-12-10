@@ -11,6 +11,7 @@ tags:
 ---
 
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
 #### Chapter 1 Introduction
 
@@ -18,12 +19,5 @@ Forward problem: Given known causes, determine the effects.
 
 Inverse problem: Observing the effects, recover the cause. 
 
-## KaTeX
-
-$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
+$Ku=f$
 
