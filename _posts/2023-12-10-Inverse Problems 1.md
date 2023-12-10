@@ -11,10 +11,10 @@ tags:
 ---
 
 # Inverse Problems
-[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)以便查看排版后的LaTeX
+
+[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) for seeing it. 
 
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
 ## Chapter 1 Introduction
 
@@ -25,7 +25,9 @@ Inverse problem: Observing the effects, recover the cause.
 Computing a solution to the operator equation $Ku=f$ is not easy for three reasons: 
 
 > 1, a solution may not exist,
+> 
 > 2, if it exists it may not be unique,
+> 
 > 3, small errors (noise) may get heavily amplified. 
 
 
