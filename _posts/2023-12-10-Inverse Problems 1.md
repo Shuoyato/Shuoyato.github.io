@@ -60,7 +60,16 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 
 #### Non-wellposedness of differentiation
 
-> Consider the inverse problem $Ax=y$,\\
-> In general it has no solution,\\
-> If a solution exists, it is unique,\\
+> Consider the inverse problem $Ax=y$,
+> 
+> In general it has no solution,
+>  
+> If a solution exists, it is unique,
+> 
 > but not continuous in $y\in Y$. 
+
+#### Tikhonov regularization: 
+
+> $x_{\alpha}=\arg\min \int^1_0|\int^s_0x(t)dt-y^{\delta}(s)|^2+\alpha\int^1_0|x(t)|^2dt$,
+>
+> Set $y_{\alpha}=Ax_{\alpha}$, then $y_{\alpha}$ solves \begin{cases} n/2, & \text {if $n$ is even} \\ 3n+1, & \text{if $n$ is odd} \end{cases}
