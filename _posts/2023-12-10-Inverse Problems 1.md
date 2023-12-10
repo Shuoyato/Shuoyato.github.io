@@ -32,12 +32,16 @@ Let $A:X\to Y$ denotes an operator that maps from a cause space $X$ to a effect 
 
 In the sense of Hadamard, the problem is called well-posed iff these three conditions are satisfied, i.e.,
 
-> for all $y\in Y$, there exists a $x\in X$ with $Ax=y$,
+> 1, for all $y\in Y$, there exists a $x\in X$ with $Ax=y$,
 >
-> if $z\neq x$, then $Az\neq y$,
+> 2, if $z\neq x$, then $Az\neq y$,
 >
-> for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
+> 3. for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
 
-### 1.1 Examples
+Tikhonov regularization: The inverse problem is replaced with 
+
+> $x_{\alpha}=\arg\min ||Ax-y||^2+\alpha||X||^2$.
+
+
 
 
