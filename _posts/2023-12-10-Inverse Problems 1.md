@@ -36,6 +36,6 @@ In the sense of Hadamard, the problem is called well-posed iff these three condi
 >
 > if $u\neq v$, then $Kv\neq f$,
 >
-> for all $\{u_k\}_{k\in\mathbb{N}}$ with $Ku_k\to f$ implies $u_k\to u$. 
+> for all ${u_k}_{k\in\mathbb{N}}$ with $Ku_k\to f$ implies $u_k\to u$. 
 
 
