@@ -72,4 +72,4 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 
 > $x_{\alpha}=\arg\min \int^1_0|\int^s_0x(t)dt-y^{\delta}(s)|^2+\alpha\int^1_0|x(t)|^2dt$,
 >
-> Set $y_{\alpha}=Ax_{\alpha}$, then $y_{\alpha}$ solves \begin{cases} n/2, & \text {if $n$ is even} \\ 3n+1, & \text{if $n$ is odd} \end{cases}
+> Set $y_{\alpha}=Ax_{\alpha}$, then $y_{\alpha}$ solves $-\alpha y''_{\alpha}+y_{\alpha}-y^{\delta}=0$ on $(0,1)$ and $y_{\alpha}(0)=0, y'_{\alpha}(1)=0$. 
