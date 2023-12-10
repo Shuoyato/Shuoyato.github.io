@@ -60,7 +60,7 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 
 #### Non-wellposedness of differentiation
 
-> Consider the inverse problem $Ax=y$,
-> In general it has no solution,
-> If a solution exists, it is unique,
+> Consider the inverse problem $Ax=y$,\\
+> In general it has no solution,\\
+> If a solution exists, it is unique,\\
 > but not continuous in $y\in Y$. 
