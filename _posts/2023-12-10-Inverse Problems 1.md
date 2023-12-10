@@ -81,11 +81,11 @@ Forward problem: $X=Y=L^2((0,1)), Ax=(s\mapsto \int^s_0 x(t)dt)$
 
 > Assume that $\Omega$ is an open subset of $\mathbb{R}^n$.
 >
-> The Sobolev space $W^{k, p}(\Omega)$ consists of functions $u \in L^p(\Omega)$ such that for every multi-index $\alpha$ with $|\alpha| \leqslant k$, the weak derivative $D^\alpha u$ exists and $D^\alpha u \in L^p(\Omega)$.
+> The Sobolev space $W^{k, p}(\Omega)$ consists of functions $u \in L^p(\Omega)$ such that for every multi-index $\alpha$ with $|\alpha| \leq k$, the weak derivative $D^\alpha u$ exists and $D^\alpha u \in L^p(\Omega)$.
 >
 > Thus
 $$
-W^{k, p}(\Omega)=\left\{u \in L^p(\Omega): D^\alpha u \in L^p(\Omega),|\alpha| \leqslant k\right\} .
+W^{k, p}(\Omega)=\left\{u \in L^p(\Omega): D^\alpha u \in L^p(\Omega),|\alpha| \leq k\right\} .
 $$
 ## Chapter 3 Some classical inverse/forward problems
 
