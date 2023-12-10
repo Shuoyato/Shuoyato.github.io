@@ -12,7 +12,7 @@ tags:
 
 # Inverse Problems
 
-[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) for seeing it. 
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
 Based on my 23 winter semester course Inverse Problems at WWU, and other lecture notes online. 
 
