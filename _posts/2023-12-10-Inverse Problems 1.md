@@ -23,3 +23,11 @@ Computing a solution to the operator equation \(Ku=f\) is not easy for three rea
       1, a solu may not exist,
       2, if it exists it may not be unique,
       3, small errors (noise) may casue 
+
+> $\lnot (S x = 0)$  
+> $S x = S y \Rightarrow x = y$  
+> $x+0 = x$  
+> $x+S y = S(x+y)$  
+> $x \cdot 0 = 0$  
+> $x \cdot Sy = (x \cdot y) + x$  
+> $R(0) \Rightarrow (\forall x, R(x) \Rightarrow R(S x)) \Rightarrow R(x)$
