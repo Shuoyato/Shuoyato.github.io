@@ -36,7 +36,7 @@ In the sense of Hadamard, the problem is called well-posed iff these three condi
 >
 > 2, if $z\neq x$, then $Az\neq y$,
 >
-> 3. for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
+> 3, for all $x_k$ with $k\in\mathbb{N}$ with $Ax_k\to y$ implies $x_k\to x$.
 
 Consider 
 
