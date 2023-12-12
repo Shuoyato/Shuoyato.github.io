@@ -282,3 +282,13 @@ need, have, make, cook, eat, buy
       Nachmittags ...
       Abends mag ich Pizza ober Pasta. 
       Ich trinke oft cola. 
+
+
+### Chapter 5 Alltag und Familie (Everyday life and family)
+
+(1) Some verbs
+
+> Zeitung lesen,
+> mit der Familie zu Mittag essen
+>
+> 
