@@ -80,7 +80,20 @@ Neuter (das):
       die Sprache(-n), language
       andere, other
       sammeln, to collect
-
+      hören, to hear
+      wer, who?
+      bekannt, well-known
+      der Buchstabe, letter, 字母
+      dein, deine, your
+      zuerst, at first
+      man, 代词, one, you, Sie,
+      schreiben, to write
+      buchstabieren, to spell
+      reagieren, to react
+      die Leute(Pl.), people
+      der Kollege(-n), colleague(m)
+      
+      
 
 
       
