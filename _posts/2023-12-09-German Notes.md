@@ -283,35 +283,4 @@ need, have, make, cook, eat, buy
       Abends mag ich Pizza ober Pasta. 
       Ich trinke oft cola. 
 
-
-### Chapter 5 Alltag und Familie (Everyday life and family)
-
-(1) Some verbs
-
-      Zeitung lesen, (to read newspaper), 
-      
-      mit der Familie zu Mittag essen, lange schlafen, Fußball spielen, Freunde treffen, lernen, 
-      
-      Oma besuchen, (to visit grandma),
-
-      Pizza essen, in den Supermarkt gehen, ins Kino gehen, am Computer arbeiten
-
-(2) Some sentences
-
-#### What time is it?
-
-      Wie spät ist es?/ Wie viel Uhr ist es? 
-
-      14:45 Uhr
-
-      inoffiziell: Es ist Viertel vor drei. 
-
-      offiziell: Es ist vierzehn Uhr fünfundvierzig. 
-
-#### When do you do something?
-
-      Wann duschst du? (When do you take a shower?)
-
-      Um zwanzig Uhr. 
-
       
