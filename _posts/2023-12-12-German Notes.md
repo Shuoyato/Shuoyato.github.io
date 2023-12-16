@@ -313,4 +313,28 @@ need, have, make, cook, eat, buy
 
       Um zwanzig Uhr. 
 
-      
+(3) Family
+
+      die Verwandten(the relatives)
+      die Großeltern(the grandparents): der Großvater/der Opa, die Großmutter/die Oma,
+      der Vater, die Mutter,
+      der Sohn, der Bruder, die Tochter, die Schwester, 
+
+      das Mädchen(the girl)
+      das Baby,
+      der Mann, 
+      die Frau, 
+      der Junge(the young)
+
+(4) Sentences
+
+      Hier ist meine Familie. Da besuchen wir gerade meinen Opa. Das sind meine Eltern und hier links seht ihr meinen Bruder. Er heißt Ben. Und das ist meine Schwester Mia. Und hier seht ihr mein Auto. Schön, oder?
+
+      Here is my family. We're visiting my grandpa right now. These are my parents and here on the left you can see my brother. His name is Ben. And this is my sister Mia. And here you can see my car. Beautiful or?
+
+      Attension the ARTIKEL: nominativ und akkusativ: 
+
+      der, mein, meinen Bruder
+      das, mein, mein Auto
+      die, meine, meine Schwester,
+      die, meine, meine Eltern
