@@ -338,3 +338,15 @@ need, have, make, cook, eat, buy
       das, mein, mein Auto
       die, meine, meine Schwester,
       die, meine, meine Eltern
+
+(5) Possessivartikel:
+
+> ich: mein/e,
+> du: dein/e,
+> er: sein/e, (he
+> es: sein/e, (it
+> sie: ihr/e, (she
+> wir: unser/e, (we
+> ihr: euer/eure, (Plural you, 你们
+> sie: ihr/e, (they
+> Sie: Ihr/e, (Formal singular you, 你
