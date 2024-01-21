@@ -350,3 +350,48 @@ need, have, make, cook, eat, buy
       ihr: euer/eure, (Plural you, 你们
       sie: ihr/e, (they
       Sie: Ihr/e, (Formal singular you, 你
+
+      example: 
+      euer Hund(你们的狗, der Hund),
+      mein Bruder(der Bruder),
+      dein Motorrad(your motorcycle, das)
+      ihre Geige(her violin, die)
+
+(6) Modalverben: können(can), müssen(must), wollen(want)
+
+      Wir können nicht ins Kino gehen. (we can not to the cinema go)
+      Wollen wir zum Yoga gehen?(Want we to Yoga go?)
+
+      ich: muss, kann, will
+      du: musst, kannst, willst
+      er/es/sie: muss, kann, will
+      wir: müssen, können, wollen
+      ihr: müsst, könnt, wollt
+      sie/Sie: müssen, können, wollen
+
+      Hast du zeit? (Do you have time?)
+      Tut mir leid.(I'm sorry)
+      Schade(pity)
+      das geht(that works)
+
+      hätte gern(would like to)
+
+      macht nicht(never mind)
+
+(7) Others
+
+      60 Sekunden = 1 Minute
+      30 Minute = eine halbe Stunde(a half hour)
+
+      Ich hätte gern einen Termin.(I would like to make an appointment.
+      Haben Sie heute/morgen/am ... einen Termin?(Do you have an appointment today/tomorrow/on...?
+
+      Entschuldigung, bitte.
+      Bitte entschuldigen Sie.
+      Ich bitte um Entschuldigung. 
+      Es tut mir leid, ich bin zu spät. (sorry im late)
+
+      Schon gut. 
+      Kein Problem. 
+      Macht nichts.
+      Das nächste Mal bitte pünktlich!(Next time please be on time!
