@@ -395,3 +395,11 @@ need, have, make, cook, eat, buy
       Kein Problem. 
       Macht nichts.
       Das nächste Mal bitte pünktlich!(Next time please be on time!
+
+
+### Chapter 6 Zeit mit Freunden (Time with friends)
+
+ins Fitness-Studio gehen
+
+
+
